@@ -1,4 +1,4 @@
-# **Online Shop - Assignment 2**
+# **Online Shop - Assignment**
 
 ## **Overview**
 
