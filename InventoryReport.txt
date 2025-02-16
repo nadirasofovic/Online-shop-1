@@ -1,0 +1,9 @@
+Inventory{name='T-Shirt', quantity=98}
+Inventory{name='Laptop', quantity=49}
+Inventory{name='Bananas', quantity=190}
+Inventory{name='The Great Gatsby', quantity=74}
+Inventory{name='Couch', quantity=24}
+Inventory{name='Basketball', quantity=100}
+Inventory{name='Shampoo', quantity=150}
+Inventory{name='Printer Paper', quantity=200}
+Inventory{name='Action Figure', quantity=100}

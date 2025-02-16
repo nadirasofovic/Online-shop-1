@@ -1,0 +1,5 @@
+Category{name='food', quantity=10}
+Category{name='clothing', quantity=2}
+Category{name='electronics', quantity=1}
+Category{name='books', quantity=1}
+Category{name='furniture', quantity=1}
